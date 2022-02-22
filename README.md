@@ -1,10 +1,10 @@
 # OOP - Pract - Group V
 
-Object Oriented Programming.
-Faculty of Mathematics and Informatics.
-Problems, Labs, Solutions and useful resources. 
+Object Oriented Programming.  
+Faculty of Mathematics and Informatics.  
+Problems, Labs, Solutions and useful resources.  
 
-### Week-1.
+### Week-1. Introduction.
 
 Labs & Problems:
 

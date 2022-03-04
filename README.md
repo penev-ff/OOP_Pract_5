@@ -13,4 +13,14 @@ Problems, Labs, Solutions and useful resources.
 Labs & Problems:
 
 * [01_Recap_Problems](./Week01_Recap_Struct/01_problems_recap.md)
-* [02_Structs_Problems](./Week01_Recap_Struct/01_problems_struct.md)
+* [01_Structs_Problems](./Week01_Recap_Struct/01_problems_struct.md)
+
+### Week-2. Union. IO & Files.
+
+Union - представяне в паметта.
+Потоци и текстови файлове.Писане и четене в текстов файл.
+STL: iostream, fstream, sstream
+
+Labs & Problems:
+
+* [01_IO_Problems](./Week02_IO_Union/01_problems_io.md)

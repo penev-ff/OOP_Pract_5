@@ -4,6 +4,8 @@
 #include "elective_course.hpp"
 #include "zuzi.hpp"
 
+#define DEBUG_MODE false
+
 using namespace std;
 
 const size_t BUFFER_SIZE = 1024;
@@ -142,8 +144,10 @@ int main(int argc, char *argv[])
         cerr << "The second argument should be the storage path.\n";
     }
 
-    // char arg1[] = "cli.txt";
-    // char arg2[] = "storage.csv";
+#if DEBUG_MODE
+    char arg1[] = "cli.txt";
+    char arg2[] = "storage.csv";
+#endif
 
     app(argv[1], argv[2]);
 

@@ -17,9 +17,9 @@ Labs & Problems:
 
 ### Week-2. Union. IO & Files.
 
-Union - представяне в паметта.  
-Потоци и текстови файлове.Писане и четене в текстов файл.  
-STL: iostream, fstream, sstream  
+union - представяне в паметта.  
+Потоци и текстови файлове. Писане и четене в текстов файл.  
+STL: iostream, fstream 
 
 Labs & Problems:
 

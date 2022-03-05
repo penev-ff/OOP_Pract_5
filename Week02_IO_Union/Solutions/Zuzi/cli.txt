@@ -1,0 +1,7 @@
+###########################
+1. Load ZUZI
+2. Save ZUZI
+3. Add Elective Course
+4. Search By ID
+5. Exit
+###########################

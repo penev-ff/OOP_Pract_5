@@ -11,7 +11,7 @@ int main()
 
     // ifstream sourceFile;
     // sourceFile.open(path);
-    
+
     // Equivalent
     ifstream sourceFile(path);
 
@@ -45,6 +45,8 @@ int main()
     // {
     //     cout << ch;
     // }
+
+    sourceFile.close();
 
     return 0;
 }

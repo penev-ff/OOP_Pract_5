@@ -24,3 +24,13 @@ STL: iostream, fstream
 Labs & Problems:
 
 * [01_IO_Problems](./Week02_IO_Union/01_problems_io.md)
+
+### Week-3. IO Recap. Working with binary files.
+
+Потоци - преговор.
+Работа с двоични файлове.
+
+Labs & Problems:
+
+* [01_BinaryFiles_Problems](./Week03_IO_Binary/01_problems_io_binary.md)
+

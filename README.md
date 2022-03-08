@@ -27,8 +27,8 @@ Labs & Problems:
 
 ### Week-3. IO Recap. Working with binary files.
 
-Потоци - преговор.
-Работа с двоични файлове.
+Потоци - преговор.  
+Работа с двоични файлове.  
 
 Labs & Problems:
 

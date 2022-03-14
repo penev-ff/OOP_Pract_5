@@ -18,7 +18,7 @@ Labs & Problems:
 ### Week-2. Union. IO & Files.
 
 union - представяне в паметта.  
-Потоци и текстови файлове. Писане и четене в текстов файл.  
+Потоци и текстови файлове. Писане и четене в текстов файл.   
 STL: iostream, fstream 
 
 Labs & Problems:
@@ -34,3 +34,11 @@ Labs & Problems:
 
 * [01_BinaryFiles_Problems](./Week03_IO_Binary/01_problems_io_binary.md)
 
+### Week-4. Binary IO Recap. Alignment & Padding. Dynamic memory allocation for objects.
+
+Размер на обекти. Подравняване.
+Работа с обекти в динамичната памет.
+Продължение на работа с двоични файлове.
+
+* [01_reverseit]()
+* Stay Tuned...

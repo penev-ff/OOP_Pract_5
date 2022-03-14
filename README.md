@@ -40,5 +40,5 @@ Labs & Problems:
 Работа с обекти в динамичната памет.
 Продължение на работа с двоични файлове.
 
-* [01_reverseit]()
-* Stay Tuned...
+* [01_Reverseit](Week04_Alignment_IO_Binary/01_Reverseit.md)
+* [02_Vector3D](Week04_Alignment_IO_Binary/02_Vector3D.md)

@@ -12,7 +12,7 @@ const size_t BUFFER_SIZE = 1024;
 
 void load_cli(char cli[], const char *cliFilePath)
 {
-    // Same as != nullptr
+    // Same as == nullptr
     if (!cliFilePath)
     {
         return;
@@ -38,7 +38,7 @@ void load_cli(char cli[], const char *cliFilePath)
 
 void load_storage(Zuzi &zuzi, const char *storageFilePath)
 {
-    // Same as != nullptr
+    // Same as == nullptr
     if (!storageFilePath)
     {
         return;
@@ -70,7 +70,7 @@ void save_storage(const Zuzi &zuzi, const char *storageFilePath)
 {
     ofstream storageFile(storageFilePath);
 
-    // Same as != nullptr
+    // Same as == nullptr
     if (!storageFilePath)
     {
         return;

@@ -36,9 +36,23 @@ Labs & Problems:
 
 ### Week-4. Binary IO Recap. Alignment & Padding. Dynamic memory allocation for objects.
 
-Размер на обекти. Подравняване.
-Работа с обекти в динамичната памет.
-Продължение на работа с двоични файлове.
+Размер на обекти. Подравняване.  
+Работа с обекти в динамичната памет.  
+Продължение на работа с двоични файлове.  
+
+Labs & Problems:
 
 * [01_Reverseit](Week04_Alignment_IO_Binary/01_Reverseit.md)
 * [02_Vector3D](Week04_Alignment_IO_Binary/02_Vector3D.md)
+
+
+# Week-5. 
+
+Член-функции. Жизнен цикъл на обект.  
+Конструктори и деструктор. Капсулация.  
+Модификатори за достъп. Член-функции get и set.  
+
+Labs & Problems:
+
+* [01_Class_Problems](Week05_Class/01_problems_class.md)
+

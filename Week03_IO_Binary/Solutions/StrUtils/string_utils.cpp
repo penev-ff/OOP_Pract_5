@@ -43,12 +43,12 @@ int str_cmp(const char *lhs, const char *rhs)
 
     if (!lhs)
     {
-        return -1;
+        return 1;
     }
 
     if (!rhs)
     {
-        return 1;
+        return -1;
     }
 
     while ((*lhs != '\0' && *rhs != '\0') && (*lhs == *rhs))

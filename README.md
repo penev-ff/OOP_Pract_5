@@ -63,4 +63,4 @@ Labs & Problems:
 Голямата четворка (Rule of four)  
 
 Labs & Problems:
-* [01_Rule_Of_Four](Week06-Rule-Of-Three/01_problems_rule_of_four.md)
+* [01_Rule_Of_Four](Week06-Rule-Of-Four/01_problems_rule_of_four.md)

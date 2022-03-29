@@ -13,7 +13,7 @@ Problems, Labs, Solutions and useful resources.
 Labs & Problems:
 
 * [01_Recap_Problems](./Week01_Recap_Struct/01_problems_recap.md)
-* [01_Structs_Problems](./Week01_Recap_Struct/01_problems_struct.md)
+* [02_Structs_Problems](./Week01_Recap_Struct/02_problems_struct.md)
 
 ### Week-2. Union. IO & Files.
 
@@ -23,7 +23,7 @@ STL: iostream, fstream
 
 Labs & Problems:
 
-* [01_IO_Problems](./Week02_IO_Union/01_problems_io.md)
+* [03_IO_Problems](./Week02_IO_Union/03_problems_io.md)
 
 ### Week-3. IO Recap. Working with binary files.
 
@@ -32,7 +32,7 @@ Labs & Problems:
 
 Labs & Problems:
 
-* [01_BinaryFiles_Problems](./Week03_IO_Binary/01_problems_io_binary.md)
+* [04_BinaryFiles_Problems](./Week03_IO_Binary/04_problems_io_binary.md)
 
 ### Week-4. Binary IO Recap. Alignment & Padding. Dynamic memory allocation for objects.
 
@@ -42,8 +42,8 @@ Labs & Problems:
 
 Labs & Problems:
 
-* [01_Reverseit](Week04_Alignment_IO_Binary/01_Reverseit.md)
-* [02_Vector3D](Week04_Alignment_IO_Binary/02_Vector3D.md)
+* [05_Reverseit](Week04_Alignment_IO_Binary/05_Reverseit.md)
+* [06_Vector3D](Week04_Alignment_IO_Binary/06_Vector3D.md)
 
 
 # Week-5. Class.
@@ -54,7 +54,7 @@ Labs & Problems:
 
 Labs & Problems:
 
-* [01_Class_Problems](Week05_Class/01_problems_class.md)
+* [07_Class_Problems](Week05_Class/07_problems_class.md)
 
 # Week-6. Rule-of-four.
 
@@ -63,4 +63,4 @@ Labs & Problems:
 Голямата четворка (Rule of four)  
 
 Labs & Problems:
-* [01_Rule_Of_Four](Week06-Rule-Of-Four/01_problems_rule_of_four.md)
+* [08_Rule_Of_Four](Week06-Rule-Of-Four/08_problems_rule_of_four.md)

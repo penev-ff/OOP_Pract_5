@@ -68,7 +68,7 @@ double Item::getPrice() const
 
 void Item::copyName(const char *otherName)
 {
-    assert(!otherName);
+    assert(otherName);
 
     size_t len = strlen(otherName);
     // +1 for the terminating null

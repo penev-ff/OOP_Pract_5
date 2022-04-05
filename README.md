@@ -64,3 +64,4 @@ Labs & Problems:
 
 Labs & Problems:
 * [08_Rule_Of_Four](Week06-Rule-Of-Four/08_problems_rule_of_four.md)
+* [09_Matrix](Week06-Rule-Of-Four/09_matrix.md)

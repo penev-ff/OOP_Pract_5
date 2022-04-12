@@ -71,4 +71,4 @@ Labs & Problems:
 Предефиниране на оператори.
 
 Labs & Problems:
-* [10_Matrix](./Week07-Operators/10_arithmetic_operators.md)
+* [10_Matrix](./Week07-Operators/10_operators.md)

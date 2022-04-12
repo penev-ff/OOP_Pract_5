@@ -65,3 +65,10 @@ Labs & Problems:
 Labs & Problems:
 * [08_Rule_Of_Four](Week06-Rule-Of-Four/08_problems_rule_of_four.md)
 * [09_Matrix](Week06-Rule-Of-Four/09_matrix.md)
+
+# Week-7. Operators overloading
+
+Предефиниране на оператори.
+
+Labs & Problems:
+* [10_Matrix](./Week07-Operators/10_arithmetic_operators.md)

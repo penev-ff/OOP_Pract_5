@@ -63,12 +63,21 @@ Labs & Problems:
 Голямата четворка (Rule of four)  
 
 Labs & Problems:
-* [08_Rule_Of_Four](Week06-Rule-Of-Four/08_problems_rule_of_four.md)
-* [09_Matrix](Week06-Rule-Of-Four/09_matrix.md)
+* [08_Rule_Of_Four](./Week06_Rule_Of_Four/08_problems_rule_of_four.md)
+* [09_Matrix](./Week06_Rule_Of_Four/09_matrix.md)
 
 ### Week-7. Operators overloading
 
 Предефиниране на оператори.
 
 Labs & Problems:
-* [10_Operators](./Week07-Operators/10_operators.md)
+* [10_Operators](./Week07_Operators/10_operators.md)
+
+### Week-8. Has-A & friend declaration. 
+
+Приятелски класове и функции.
+Композиция и агрегация в ООП.
+Масиви от обекти.
+
+Labs & Problems:
+* [11_Composition](/Week08_Friend_Composition/11_has_a.md)

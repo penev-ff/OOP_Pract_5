@@ -46,7 +46,7 @@ Labs & Problems:
 * [06_Vector3D](Week04_Alignment_IO_Binary/06_Vector3D.md)
 
 
-# Week-5. Class.
+### Week-5. Class.
 
 Член-функции. Жизнен цикъл на обект.  
 Конструктори и деструктор. Капсулация.  
@@ -56,7 +56,7 @@ Labs & Problems:
 
 * [07_Class_Problems](Week05_Class/07_problems_class.md)
 
-# Week-6. Rule-of-four.
+### Week-6. Rule-of-four.
 
 Динамична памет в класовете.  
 Копиращ конструктор и оператор=  
@@ -66,7 +66,7 @@ Labs & Problems:
 * [08_Rule_Of_Four](Week06-Rule-Of-Four/08_problems_rule_of_four.md)
 * [09_Matrix](Week06-Rule-Of-Four/09_matrix.md)
 
-# Week-7. Operators overloading
+### Week-7. Operators overloading
 
 Предефиниране на оператори.
 

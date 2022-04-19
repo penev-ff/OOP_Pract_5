@@ -75,9 +75,9 @@ Labs & Problems:
 
 ### Week-8. Has-A & friend declaration. 
 
-Приятелски класове и функции.
-Композиция и агрегация в ООП.
-Масиви от обекти.
+Приятелски класове и функции.  
+Композиция и агрегация в ООП.  
+Масиви от обекти.  
 
 Labs & Problems:
 * [11_Composition](/Week08_Friend_Composition/11_has_a.md)

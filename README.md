@@ -81,3 +81,11 @@ Labs & Problems:
 
 Labs & Problems:
 * [11_Composition](/Week08_Friend_Composition/11_has_a.md)
+
+### Week-9. Friend & Templates.
+
+Приятелски класове и функции.  
+Шаблони.  
+Реализация на шаблонен клас.
+
+* [12_Templates](./Week09_Templates_Static/12_templates.md)

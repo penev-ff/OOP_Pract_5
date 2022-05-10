@@ -92,8 +92,8 @@ Labs & Problems:
 
 ### Week-10. Move Semantics
 
-Static Keyword.
-Разлика между lvalue и rvalue.
-Въведение в Move семантики & noexcept.
+Static Keyword.  
+Разлика между lvalue и rvalue.  
+Въведение в Move семантики.  
 
 * [13_Move](./Week09_Templates_Static/12_templates.md)

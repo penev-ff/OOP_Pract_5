@@ -80,7 +80,7 @@ int main()
 
         // Casting
 
-        Cat *cat = dynamic_cast<Cat *>(animals[i]); // Downcasting - From Base to Derived
+        Cat *cat = dynamic_cast<Cat *>(animals[i]);
 
         if (cat)
         {
@@ -94,9 +94,7 @@ int main()
     {
         delete animals[i];
     }
-
-    // Upcasting - From Base to Derived
-
+    
     Cat *kitty = new Cat("kitty", 1, 3);
 
     kitty->whoAmI();

@@ -88,6 +88,8 @@ Labs & Problems:
 Шаблони.  
 Реализация на шаблонен клас.
 
+Labs & Problems:
+
 * [12_Templates](./Week09_Templates_Static/12_templates.md)
 
 ### Week-10. Move Semantics
@@ -96,4 +98,26 @@ Static Keyword.
 Разлика между lvalue и rvalue.  
 Въведение в Move семантики.  
 
+Labs & Problems:
+
 * [13_Move](./Week10_Move/12-move.md)
+
+### Week-11. Наследяване
+
+Наследяване.  
+is-a взаимоотношения  
+
+Labs & Problems:
+
+* [14_Inheritance](./Week11_Inheritance/13-inheritance.md)
+
+### Week-12. Полиморфизъм
+
+Статично и динамично свързване. 
+Виртуални функции. 
+Полиморфизъм. Абстрактни класове.  
+
+Labs & Problems:
+
+* [15_Binding](./Week12_Binding/12-binding.md)
+

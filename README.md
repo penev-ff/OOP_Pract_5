@@ -119,7 +119,7 @@ Labs & Problems:
 
 Labs & Problems:
 
-* [15_Binding](./Week12_Binding/12-binding.md)
+* [15_Binding](./Week12_Binding/14-binding.md)
 
 ### Week-13. Упражнение за изпит. Преговор.
 

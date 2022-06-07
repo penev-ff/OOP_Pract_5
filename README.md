@@ -1,5 +1,7 @@
 # OOP - Pract - Group V
 
+Some examples, snippets and problems given by me druing the OOP Practicum course.
+
 Object Oriented Programming.  
 Faculty of Mathematics and Informatics.  
 Problems, Labs, Solutions and useful resources.  
@@ -126,3 +128,5 @@ Labs & Problems:
 Labs & Problems:
 
 * [16_Miscellaneous](./Week13_Misc/15-misc.md)
+
+### Week-14. SOLID. OOP Design.
